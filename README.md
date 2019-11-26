@@ -45,3 +45,7 @@ Above dhall expression results in the following text output (using `dhall text -
 - "foo": null
   "bar": 1.0
 ```
+
+## Planned Features
+
+I was planning on adding rendering YAML comments, but didn't get around designing the appropriate abstraction for that, yet. If you have any ideas/usecases, please let me know in an issue on this repository!
